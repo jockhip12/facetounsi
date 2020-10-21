@@ -1,0 +1,25 @@
+nav ol li.centred {
+	display: block ;
+	margin: auto ;
+}
+
+.copyright {
+
+	background-color: #f8f9fa !important;
+    padding: 25px;
+    text-align: center;
+    margin: 25px 0 0 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.container {
+	margin: 15px !important
+}
+
+p.status {
+    margin: 25px 0;
+    border: 1px gray solid;
+    padding: 20px;
+}
