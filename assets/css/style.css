@@ -23,3 +23,9 @@ p.status {
     border: 1px gray solid;
     padding: 20px;
 }
+
+button{margin: 10px 0;}
+.right {
+    float: right !important;
+    margin: 10px 0;
+}

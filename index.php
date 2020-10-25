@@ -16,14 +16,9 @@ include 'templates/head.php';
   	<div class="row">
   		<div class="col-sm-12">
 
-
-
-
-
-
   <?php
 
-	include 'pages/home.php';
+	include 'pages/message.php';
 
 
   	?>
@@ -35,13 +30,6 @@ include 'templates/head.php';
 
  <?php
   	include 'templates/footer.php';
-
-
-
-
-
-
- 
 
   	include 'templates/bootstrap-js.php';
 
