@@ -18,7 +18,7 @@ include 'templates/head.php';
 
   <?php
 
-	include 'pages/message.php';
+	include 'pages/signup.php';
 
 
   	?>
